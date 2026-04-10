@@ -1,0 +1,48 @@
+# Top Tier Custom Floors -- Redirects
+# Generated for new site launch
+
+# === WORDPRESS CRUFT (pre-filled) ===
+/wp-content/*                                 /                            301
+/wp-admin/*                                   /                            301
+/wp-login.php                                 /                            301
+/wp-json/*                                    /                            301
+/feed/                                        /                            301
+/feed                                         /                            301
+/comments/feed/                               /                            301
+/category/*                                   /                            301
+/tag/*                                        /                            301
+/author/*                                     /                            301
+
+# === DUPLICATE URL CONSOLIDATION ===
+# Force flag (301!) so these fire over Netlify file-fallback serving.
+/about                                             /about.html                                        301!
+/areas/flooring-installation-carlsbad              /areas/flooring-installation-carlsbad.html         301!
+/areas/flooring-installation-dana-point            /areas/flooring-installation-dana-point.html       301!
+/areas/flooring-installation-del-mar               /areas/flooring-installation-del-mar.html          301!
+/areas/flooring-installation-encinitas             /areas/flooring-installation-encinitas.html        301!
+/areas/flooring-installation-escondido             /areas/flooring-installation-escondido.html        301!
+/areas/flooring-installation-fallbrook             /areas/flooring-installation-fallbrook.html        301!
+/areas/flooring-installation-irvine                /areas/flooring-installation-irvine.html           301!
+/areas/flooring-installation-la-jolla              /areas/flooring-installation-la-jolla.html         301!
+/areas/flooring-installation-laguna-niguel         /areas/flooring-installation-laguna-niguel.html    301!
+/areas/flooring-installation-mission-viejo         /areas/flooring-installation-mission-viejo.html    301!
+/areas/flooring-installation-oceanside             /areas/flooring-installation-oceanside.html        301!
+/areas/flooring-installation-poway                 /areas/flooring-installation-poway.html            301!
+/areas/flooring-installation-rancho-bernardo       /areas/flooring-installation-rancho-bernardo.html  301!
+/areas/flooring-installation-rancho-santa-fe       /areas/flooring-installation-rancho-santa-fe.html  301!
+/areas/flooring-installation-san-clemente          /areas/flooring-installation-san-clemente.html     301!
+/areas/flooring-installation-san-diego             /areas/flooring-installation-san-diego.html        301!
+/areas/flooring-installation-san-marcos            /areas/flooring-installation-san-marcos.html       301!
+/areas/flooring-installation-temecula              /areas/flooring-installation-temecula.html         301!
+/areas/flooring-installation-valley-center         /areas/flooring-installation-valley-center.html    301!
+/areas/flooring-installation-vista                 /areas/flooring-installation-vista.html            301!
+/contact                                           /contact.html                                      301!
+/gallery                                           /gallery.html                                      301!
+/service-areas                                     /service-areas.html                                301!
+/services/hardwood-flooring                        /services/hardwood-flooring.html                   301!
+/services/herringbone-pattern-flooring             /services/herringbone-pattern-flooring.html        301!
+/services/laminate-vinyl-flooring                  /services/laminate-vinyl-flooring.html             301!
+/services/metallic-epoxy-floors                    /services/metallic-epoxy-floors.html               301!
+/services/polished-concrete                        /services/polished-concrete.html                   301!
+/services/sand-and-refinish                        /services/sand-and-refinish.html                   301!
+/services/stair-installation                       /services/stair-installation.html                  301!
