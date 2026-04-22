@@ -34,4 +34,12 @@
   <url><loc>https://toptierfloors.com/areas/flooring-installation-vista.html</loc><lastmod>2026-04-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://toptierfloors.com/privacy-policy.html</loc><lastmod>2026-03-31</lastmod><priority>0.3</priority></url>
   <url><loc>https://toptierfloors.com/terms-of-service.html</loc><lastmod>2026-03-31</lastmod><priority>0.3</priority></url>
+
+    <!-- Blog: floor-sanding-refinishing-cost-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/floor-sanding-refinishing-cost-san-diego.html</loc>
+        <lastmod>2026-04-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
