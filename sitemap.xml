@@ -50,4 +50,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Blog: herringbone-flooring-disadvantages-cost-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/herringbone-flooring-disadvantages-cost-san-diego.html</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
