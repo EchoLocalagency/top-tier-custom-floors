@@ -58,4 +58,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Blog: polished-concrete-cost-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/polished-concrete-cost-san-diego.html</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
