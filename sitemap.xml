@@ -74,4 +74,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+
+    <!-- Location: flooring-installation-ramona -->
+    <url>
+        <loc>https://toptierfloors.com/areas/flooring-installation-ramona.html</loc>
+        <lastmod>2026-04-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
