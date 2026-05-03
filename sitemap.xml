@@ -82,4 +82,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+
+    <!-- Blog: redfin-contractor-questions-flooring-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/redfin-contractor-questions-flooring-san-diego.html</loc>
+        <lastmod>2026-05-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
