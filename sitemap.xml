@@ -98,4 +98,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Location: hardwood-flooring-escondido -->
+    <url>
+        <loc>https://toptierfloors.com/areas/hardwood-flooring-escondido.html</loc>
+        <lastmod>2026-05-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
