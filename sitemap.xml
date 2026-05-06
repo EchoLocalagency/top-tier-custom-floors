@@ -90,4 +90,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Blog: 1000-square-feet-hardwood-flooring-cost-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/1000-square-feet-hardwood-flooring-cost-san-diego.html</loc>
+        <lastmod>2026-05-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
