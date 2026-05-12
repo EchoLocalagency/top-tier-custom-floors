@@ -130,4 +130,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Blog: metallic-epoxy-floor-life-expectancy-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/metallic-epoxy-floor-life-expectancy-san-diego.html</loc>
+        <lastmod>2026-05-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
