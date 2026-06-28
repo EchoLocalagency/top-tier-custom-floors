@@ -158,4 +158,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Blog: stair-installation-cost-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/stair-installation-cost-san-diego.html</loc>
+        <lastmod>2026-06-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
