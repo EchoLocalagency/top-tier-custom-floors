@@ -166,4 +166,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Blog: wood-floor-colors-never-go-out-of-style-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/wood-floor-colors-never-go-out-of-style-san-diego.html</loc>
+        <lastmod>2026-06-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
