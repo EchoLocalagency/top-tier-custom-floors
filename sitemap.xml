@@ -182,4 +182,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Blog: epoxy-1000-square-foot-floor-cost-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/epoxy-1000-square-foot-floor-cost-san-diego.html</loc>
+        <lastmod>2026-06-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
