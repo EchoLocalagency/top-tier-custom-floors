@@ -222,4 +222,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+
+    <!-- Blog: engineered-vs-solid-hardwood-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/engineered-vs-solid-hardwood-san-diego.html</loc>
+        <lastmod>2026-07-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
