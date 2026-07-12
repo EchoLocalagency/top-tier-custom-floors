@@ -254,4 +254,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Location: hardwood-flooring-valley-center -->
+    <url>
+        <loc>https://toptierfloors.com/areas/hardwood-flooring-valley-center.html</loc>
+        <lastmod>2026-07-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
