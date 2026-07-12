@@ -262,4 +262,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+
+    <!-- Location: hardwood-flooring-encinitas -->
+    <url>
+        <loc>https://toptierfloors.com/areas/hardwood-flooring-encinitas.html</loc>
+        <lastmod>2026-07-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
