@@ -278,4 +278,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Location: polished-concrete-escondido -->
+    <url>
+        <loc>https://toptierfloors.com/areas/polished-concrete-escondido.html</loc>
+        <lastmod>2026-07-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
