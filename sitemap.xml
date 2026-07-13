@@ -270,4 +270,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+
+    <!-- Blog: can-you-install-stairs-yourself-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/can-you-install-stairs-yourself-san-diego.html</loc>
+        <lastmod>2026-07-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
