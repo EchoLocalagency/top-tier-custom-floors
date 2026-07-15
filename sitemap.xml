@@ -286,4 +286,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+
+    <!-- Blog: polished-concrete-vs-metallic-epoxy-garage-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/polished-concrete-vs-metallic-epoxy-garage-san-diego.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
