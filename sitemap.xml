@@ -294,4 +294,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Location: hardwood-flooring-oceanside -->
+    <url>
+        <loc>https://toptierfloors.com/areas/hardwood-flooring-oceanside.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
