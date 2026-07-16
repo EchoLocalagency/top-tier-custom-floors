@@ -302,4 +302,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+
+    <!-- Blog: best-time-of-year-refinish-hardwood-floors-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/best-time-of-year-refinish-hardwood-floors-san-diego.html</loc>
+        <lastmod>2026-07-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
