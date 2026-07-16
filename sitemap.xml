@@ -310,4 +310,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Location: polished-concrete-carlsbad -->
+    <url>
+        <loc>https://toptierfloors.com/areas/polished-concrete-carlsbad.html</loc>
+        <lastmod>2026-07-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
