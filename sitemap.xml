@@ -318,4 +318,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+
+    <!-- Blog: is-sandless-floor-refinishing-worth-it-san-diego -->
+    <url>
+        <loc>https://toptierfloors.com/blog/is-sandless-floor-refinishing-worth-it-san-diego.html</loc>
+        <lastmod>2026-07-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
