@@ -350,4 +350,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Location: polished-concrete-oceanside -->
+    <url>
+        <loc>https://toptierfloors.com/areas/polished-concrete-oceanside.html</loc>
+        <lastmod>2026-07-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
