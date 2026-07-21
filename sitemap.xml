@@ -334,4 +334,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+    <!-- Location: hardwood-flooring-san-marcos -->
+    <url>
+        <loc>https://toptierfloors.com/areas/hardwood-flooring-san-marcos.html</loc>
+        <lastmod>2026-07-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
